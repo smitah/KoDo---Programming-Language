@@ -1,0 +1,16 @@
+DEC a bin
+DEC b bin
+ASN a True
+ASN b False
+Ifa
+DIS a
+DEC c bin
+DEC Temp1
+ASN Temp1 b
+NOT Temp1
+ASN c Temp1
+ENDif
+Else
+DIS c
+ENDelse
+

@@ -1,0 +1,12 @@
+%//LOGICAL OperatorsS%//
+Binary a
+Binary b
+a = True
+b = False
+If a
+Display a
+Binary c
+c = !b
+Else
+Display c
+End

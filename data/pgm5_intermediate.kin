@@ -1,0 +1,31 @@
+DEC a int
+DEC b int
+ASN a 10
+ASN b 20
+Dec Temp1
+Dec Temp2
+ASN Temp1 a
+ASN Temp2 b
+GT Temp1 Temp2
+If Temp1
+DIS " if 1 "
+ENDif
+Else
+DIS " else 1 "
+DEC c int
+DEC d int
+ASN c 1
+ASN d 2
+Dec Temp3
+Dec Temp4
+ASN Temp3 c
+ASN Temp4 d
+LT Temp3 Temp4
+If Temp3
+DIS " if 2 "
+ENDif
+Else
+DIS " else 2 "
+ENDelse
+ENDelse
+

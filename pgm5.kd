@@ -1,0 +1,19 @@
+%%Nested if
+Number a 
+Number b
+a =10
+b = 20
+If a > b
+Display " if 1 "
+Else
+Display " else 1 "
+Number c 
+Number d
+c = 1
+d = 2
+If c < d
+Display " if 2 "
+Else
+Display " else 2 "
+End
+End

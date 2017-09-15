@@ -1,0 +1,10 @@
+%%IF ELSE
+Number a 
+Number b
+a  = 10
+b  = 5
+If a < b
+Display a
+Else 
+Display b
+End

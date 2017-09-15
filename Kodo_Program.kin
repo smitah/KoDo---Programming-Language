@@ -1,0 +1,7 @@
+DIS " STRING DATA TYPE, HELLO WORLD "
+DEC a int
+DEC b bin
+ASN a 1
+ASN b True
+DIS a
+DIS b

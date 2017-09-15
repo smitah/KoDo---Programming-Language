@@ -1,0 +1,16 @@
+DEC a int
+DEC b int
+ASN a 10
+ASN b 5
+Dec Temp1
+Dec Temp2
+ASN Temp1 a
+ASN Temp2 b
+LT Temp1 Temp2
+If Temp1
+DIS a
+ENDif
+Else
+DIS b
+ENDelse
+

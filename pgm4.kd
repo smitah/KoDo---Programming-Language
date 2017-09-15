@@ -1,0 +1,9 @@
+%%WHILE LOOP
+Number a
+Number b
+a = 1
+b = 5
+While a < b
+Display a
+a = a + 1
+End

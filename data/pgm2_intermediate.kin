@@ -1,0 +1,37 @@
+DEC a int
+ASN a 1
+DEC b int
+ASN b 2
+DEC c int
+Dec Temp1
+Dec Temp2
+ASN Temp1 a
+ASN Temp2 b
+ADD Temp1 Temp2
+ASN c Temp1
+DEC d int
+Dec Temp3
+Dec Temp4
+ASN Temp3 a
+ASN Temp4 b
+SUB Temp3 Temp4
+ASN d Temp3
+DEC e int
+Dec Temp5
+Dec Temp6
+ASN Temp5 a
+ASN Temp6 b
+DIV Temp5 Temp6
+ASN e Temp5
+DEC f int
+Dec Temp7
+Dec Temp8
+ASN Temp7 a
+ASN Temp8 b
+MUL Temp7 Temp8
+ASN f Temp7
+DIS c
+DIS d
+DIS e
+DIS f
+

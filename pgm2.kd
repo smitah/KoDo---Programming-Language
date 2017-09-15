@@ -1,0 +1,17 @@
+%%Arithmetic operators with Operator precedence
+Number a
+a=1
+Number b
+b=2
+Number c
+c = a+b
+Number d
+d = a-b
+Number e
+e = a/b
+Number f
+f = a*b
+Display c 
+Display d
+Display e
+Display f

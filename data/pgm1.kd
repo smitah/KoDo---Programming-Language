@@ -1,0 +1,11 @@
+
+%% Program 1 : Data Types
+Display " STRING DATA TYPE, HELLO WORLD "
+Number a
+Binary b
+a = 1
+b = True 
+Display a
+Display b
+
+
